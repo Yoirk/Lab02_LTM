@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lab02_LTM-main\\Lab2-22520399-LeAnhHao\\Lab2-22520399-LeAnhHao.csproj",
+      "projectUniqueName": "D:\\University\\2th Year\\HKII\\LTM\\Lab\\Lab02\\Lab02_LTM\\Lab2-22520399-LeAnhHao\\Lab2-22520399-LeAnhHao.csproj",
       "projectName": "Lab2-22520399-LeAnhHao",
-      "projectPath": "D:\\Lab02_LTM-main\\Lab2-22520399-LeAnhHao\\Lab2-22520399-LeAnhHao.csproj",
+      "projectPath": "D:\\University\\2th Year\\HKII\\LTM\\Lab\\Lab02\\Lab02_LTM\\Lab2-22520399-LeAnhHao\\Lab2-22520399-LeAnhHao.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Lab02_LTM-main\\Lab2-22520399-LeAnhHao\\obj\\",
+      "outputPath": "D:\\University\\2th Year\\HKII\\LTM\\Lab\\Lab02\\Lab02_LTM\\Lab2-22520399-LeAnhHao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

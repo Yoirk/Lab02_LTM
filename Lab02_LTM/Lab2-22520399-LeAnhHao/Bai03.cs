@@ -59,16 +59,23 @@ namespace Lab2_22520399_LeAnhHao
             switch (operation)
             {
                 case '+':
-                    result = operand1 + operand2;
+                    result = Math.Round(operand1 + operand2, 2);
                     break;
                 case '-':
-                    result = operand1 - operand2;
+                    result = Math.Round(operand1 - operand2, 2);
                     break;
                 case '*':
-                    result = operand1 * operand2;
-                    break;
+                    {
+                        if (operand1 == 0 || operand2 == 0)
+                        {
+                            result = 0;
+                            break;
+                        }
+                        result = Math.Round(operand1 * operand2, 2);
+                        break;
+                    }
                 case '/':
-                    result = operand1 / operand2;
+                    result = Math.Round(operand1 / operand2, 2);
                     break;
                     // Thêm phép tính nếu muốn
             }
